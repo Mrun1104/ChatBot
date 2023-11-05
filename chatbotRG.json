@@ -1,0 +1,9 @@
+{
+    "id": "/subscriptions/18229aa5-1288-4063-a04f-30057a8f12b7/resourceGroups/chatbot",
+    "name": "chatbot",
+    "type": "Microsoft.Resources/resourceGroups",
+    "location": "eastus",
+    "properties": {
+        "provisioningState": "Succeeded"
+    }
+}
